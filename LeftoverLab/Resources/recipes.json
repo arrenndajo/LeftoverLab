@@ -1,0 +1,3977 @@
+[
+  {
+    "id": "masala-khichdi",
+    "name": "Masala Khichdi",
+    "chaosName": "Spiced Rice & Lentils",
+    "summary": "A one-pot comfort dish of rice and split lentils (dal) simmered with turmeric, cumin, and ghee until soft and porridge-like.",
+    "timeMinutes": 25,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian",
+      "gujarati"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "dal"
+      },
+      {
+        "name": "peas",
+        "isRequired": false
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ghee",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Rinse the rice and dal together.",
+      "Temper cumin in ghee, add turmeric, then the rice and dal.",
+      "Add water and salt, then simmer covered until soft and porridge-like."
+    ]
+  },
+  {
+    "id": "vagharelo-bhaat",
+    "name": "Tadka Chawal",
+    "chaosName": "Tempered Rice",
+    "summary": "Leftover rice revived with a tempering (tadka) of mustard seeds, onion, green chili, and turmeric — a quick way to use up cooked rice.",
+    "timeMinutes": 12,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb",
+      "quick"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "peas",
+        "isRequired": false
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Heat oil and crackle the mustard seeds.",
+      "Add onion, green chili, and turmeric; cook until soft.",
+      "Fold in the leftover rice and peas, season, and warm through."
+    ]
+  },
+  {
+    "id": "dal-bhaat",
+    "name": "Dal Chawal",
+    "chaosName": "Dal with Rice",
+    "summary": "Everyday yellow dal, spiced with turmeric and a cumin-ghee tempering, served over steamed rice — simple, complete, and comforting.",
+    "timeMinutes": 30,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian",
+      "gujarati"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "dal"
+      },
+      {
+        "name": "rice"
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "onion",
+        "isRequired": false
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ghee",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Cook the dal with turmeric and salt until soft.",
+      "Temper cumin in ghee and pour it over the dal.",
+      "Serve hot over steamed rice."
+    ]
+  },
+  {
+    "id": "sev-tameta",
+    "name": "Sev Tamatar ki Sabzi",
+    "chaosName": "Tangy Tomato & Sev Curry",
+    "summary": "A tangy tomato curry simmered with mustard seeds and chili, finished with crunchy sev (chickpea noodles) on top.",
+    "timeMinutes": 18,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisines": [
+      "gujarati",
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "ingredients": [
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "sev"
+      },
+      {
+        "name": "onion",
+        "isRequired": false
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Crackle mustard seeds in oil, add green chili and onion.",
+      "Add chopped tomato, turmeric, and salt; simmer into a thick gravy.",
+      "Top generously with sev just before serving."
+    ]
+  },
+  {
+    "id": "batata-nu-shaak",
+    "name": "Aloo ki Sabzi",
+    "chaosName": "Spiced Potato Curry",
+    "summary": "A simple everyday potato curry: cubed potatoes cooked with mustard seeds, cumin, and turmeric in a light masala.",
+    "timeMinutes": 22,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian",
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "ingredients": [
+      {
+        "name": "potato"
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Temper mustard and cumin seeds in oil.",
+      "Add cubed potato, turmeric, and salt; stir to coat.",
+      "Add a little water and tomato, cover, and cook until tender."
+    ]
+  },
+  {
+    "id": "masala-egg-bhurji",
+    "name": "Anda Bhurji",
+    "chaosName": "Indian Scrambled Eggs",
+    "summary": "Indian-style scrambled eggs (anda) cooked with onion, tomato, green chili, and turmeric — fast, spicy, and great with roti or bread.",
+    "timeMinutes": 12,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "roti",
+      "rice"
+    ],
+    "ingredients": [
+      {
+        "name": "egg"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "cheese",
+        "isRequired": false
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Fry onion, green chili, and tomato until soft.",
+      "Add turmeric, then pour in beaten eggs.",
+      "Scramble until set, season, and serve with roti or bread."
+    ]
+  },
+  {
+    "id": "curd-rice",
+    "name": "Dahi Chawal",
+    "chaosName": "Yogurt Rice",
+    "summary": "Soft rice mixed with yogurt (dahi) and a light mustard-seed tempering — cooling, soothing, and ready in minutes.",
+    "timeMinutes": 8,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "quick"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Mash the cooked rice slightly and stir in yogurt and salt.",
+      "Crackle mustard seeds and curry leaves in oil.",
+      "Pour the tempering over the rice and mix."
+    ]
+  },
+  {
+    "id": "aloo-paratha-plate",
+    "name": "Aloo Paratha",
+    "chaosName": "Potato Paratha Plate",
+    "summary": "Frozen paratha crisped on a pan and served with a spiced potato (aloo) side and a spoon of yogurt — an easy ready-to-cook plate.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "frozen paratha"
+      },
+      {
+        "name": "potato"
+      },
+      {
+        "name": "yogurt",
+        "isRequired": false
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Cook the frozen paratha on a hot pan until golden on both sides.",
+      "Warm or lightly spice the potato as a side.",
+      "Serve with a spoon of yogurt."
+    ]
+  },
+  {
+    "id": "masala-maggi",
+    "name": "Masala Maggi",
+    "chaosName": "Spiced Instant Noodles",
+    "summary": "Instant noodles leveled up with sauteed onion, tomato, and a little turmeric — the desi hostel-room classic.",
+    "timeMinutes": 9,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "quick",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "snack",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "instant noodles"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "peas",
+        "isRequired": false
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Saute onion and tomato in a little oil.",
+      "Add water, the noodles, and the seasoning packet.",
+      "Cook until the noodles soak up the masala, then serve."
+    ]
+  },
+  {
+    "id": "paneer-bhurji",
+    "name": "Paneer Bhurji",
+    "chaosName": "Crumbled Cottage Cheese",
+    "summary": "Crumbled paneer (Indian cottage cheese) cooked with onion, tomato, chili, and turmeric — a quick high-protein vegetarian dish.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "roti",
+      "rice"
+    ],
+    "ingredients": [
+      {
+        "name": "paneer"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "peas",
+        "isRequired": false
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Fry onion, green chili, and tomato until soft.",
+      "Add turmeric and crumbled paneer.",
+      "Toss until heated through, season, and serve with roti."
+    ]
+  },
+  {
+    "id": "veg-pulao",
+    "name": "Veg Pulao",
+    "chaosName": "Vegetable Pilaf",
+    "summary": "Fragrant rice cooked with cumin, garam masala, peas, and mixed vegetables — a mildly spiced one-pot meal.",
+    "timeMinutes": 25,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "peas"
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "potato",
+        "isRequired": false
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "garam masala",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Saute cumin and onion in oil.",
+      "Add the vegetables and garam masala, then the rinsed rice.",
+      "Add water and salt, cover, and cook until fluffy."
+    ]
+  },
+  {
+    "id": "dal-tadka",
+    "name": "Dal Tadka",
+    "chaosName": "Tempered Lentils",
+    "summary": "Cooked dal with tomato and onion, finished with a sizzling tadka of cumin and garlic in ghee — restaurant-style comfort food.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "northIndian",
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "ingredients": [
+      {
+        "name": "dal"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ghee",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Cook dal with turmeric, tomato, and salt until soft.",
+      "In ghee, sizzle cumin and garlic until golden.",
+      "Pour the tempering over the dal and serve over rice."
+    ]
+  },
+  {
+    "id": "dosa-potato-masala",
+    "name": "Masala Dosa",
+    "chaosName": "Crispy Crepe with Potato",
+    "summary": "A crisp dosa made from fermented batter, filled with a soft spiced potato masala tempered with mustard seeds and turmeric.",
+    "timeMinutes": 20,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "dosa batter"
+      },
+      {
+        "name": "potato"
+      },
+      {
+        "name": "onion",
+        "isRequired": false
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Make a spiced potato filling with mustard seeds, turmeric, and onion.",
+      "Spread the batter thin on a hot pan and drizzle with oil.",
+      "Add the filling, fold, and serve crisp."
+    ]
+  },
+  {
+    "id": "veg-frankie",
+    "name": "Veg Frankie",
+    "chaosName": "Spiced Potato Wrap",
+    "summary": "A Mumbai street-food wrap: spiced mashed potato rolled in a soft tortilla or roti with onion and a little yogurt.",
+    "timeMinutes": 12,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "snack",
+      "lunch"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "tortilla"
+      },
+      {
+        "name": "potato"
+      },
+      {
+        "name": "onion",
+        "isRequired": false
+      },
+      {
+        "name": "yogurt",
+        "isRequired": false
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Mash and lightly spice the potato with turmeric and salt.",
+      "Warm the tortilla and spread the potato down the middle.",
+      "Add onion and a little yogurt, then roll up tightly."
+    ]
+  },
+  {
+    "id": "bombay-cheese-toast",
+    "name": "Bombay Cheese Toast",
+    "chaosName": "Spiced Cheese Toast",
+    "summary": "A spiced, cheesy grilled toast with onion and green chili — the iconic Bombay-style snack made on a buttered pan.",
+    "timeMinutes": 8,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "quick"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "snack"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "tortilla"
+      },
+      {
+        "name": "cheese"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "butter",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Mix grated cheese with finely chopped onion, chili, and salt.",
+      "Spread on the tortilla or bread.",
+      "Toast on a buttered pan until crisp and melty."
+    ]
+  },
+  {
+    "id": "dal-palak",
+    "name": "Dal Palak",
+    "chaosName": "Lentils with Spinach",
+    "summary": "Comforting dal cooked with spinach (palak) and a cumin-garlic tempering — protein and greens in one bowl.",
+    "timeMinutes": 28,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "ingredients": [
+      {
+        "name": "dal"
+      },
+      {
+        "name": "spinach"
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Cook dal with turmeric and salt until soft.",
+      "Add chopped spinach and tomato; simmer a few minutes.",
+      "Finish with a cumin-garlic tempering."
+    ]
+  },
+  {
+    "id": "tomato-onion-sabzi",
+    "name": "Aloo Tamatar ki Sabzi",
+    "chaosName": "Potato in Tomato Gravy",
+    "summary": "A quick everyday curry of potato (aloo) in a light tomato-onion gravy spiced with cumin and turmeric.",
+    "timeMinutes": 20,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian",
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "ingredients": [
+      {
+        "name": "potato"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Temper cumin, then add onion and tomato.",
+      "Add cubed potato, turmeric, and salt with a little water.",
+      "Cover and cook until the potato is soft."
+    ]
+  },
+  {
+    "id": "chicken-fried-rice",
+    "name": "Chicken Fried Rice",
+    "chaosName": "Chicken Fried Rice",
+    "summary": "Day-old rice stir-fried with chicken, egg, and onion in a little soy sauce — fast and satisfying.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "western"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "egg"
+      },
+      {
+        "name": "onion",
+        "isRequired": false
+      },
+      {
+        "name": "soy sauce",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Scramble the egg in oil and set aside.",
+      "Stir-fry onion and chicken, then add the rice.",
+      "Toss with soy sauce and the egg until hot."
+    ]
+  },
+  {
+    "id": "chicken-quesadilla",
+    "name": "Chicken Quesadilla",
+    "chaosName": "Chicken Quesadilla",
+    "summary": "A crisp tortilla folded over melted cheese and chicken, cooked until golden — quick comfort food, great with salsa.",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "protein",
+      "quick"
+    ],
+    "cuisines": [
+      "western"
+    ],
+    "mealTimes": [
+      "snack",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "tortilla"
+      },
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "cheese"
+      },
+      {
+        "name": "salsa",
+        "isRequired": false
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Lay a tortilla in a lightly oiled pan.",
+      "Cover half with cheese and chicken, then fold.",
+      "Cook until golden and melty; serve with salsa."
+    ]
+  },
+  {
+    "id": "cheesy-scrambled-eggs",
+    "name": "Cheesy Scrambled Eggs",
+    "chaosName": "Cheesy Scrambled Eggs",
+    "summary": "Soft scrambled eggs cooked low and slow in butter, folded with melting cheese just before serving.",
+    "timeMinutes": 7,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "quick"
+    ],
+    "cuisines": [
+      "western"
+    ],
+    "mealTimes": [
+      "breakfast"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "egg"
+      },
+      {
+        "name": "cheese"
+      },
+      {
+        "name": "butter",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Melt butter in a pan over low heat.",
+      "Add beaten eggs and stir gently as they set.",
+      "Fold in cheese, season, and serve."
+    ]
+  },
+  {
+    "id": "tortilla-pizza",
+    "name": "Tortilla Pizza",
+    "chaosName": "Tortilla Pizza",
+    "summary": "A crispy tortilla base topped with tomato (or salsa), cheese, and spinach, cooked until the cheese melts.",
+    "timeMinutes": 10,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "quick"
+    ],
+    "cuisines": [
+      "western"
+    ],
+    "mealTimes": [
+      "snack",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "tortilla"
+      },
+      {
+        "name": "cheese"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "spinach",
+        "isRequired": false
+      },
+      {
+        "name": "salsa",
+        "isRequired": false
+      }
+    ],
+    "steps": [
+      "Spread salsa or sliced tomato over the tortilla.",
+      "Add cheese and any toppings.",
+      "Cook until the base is crisp and the cheese melts."
+    ]
+  },
+  {
+    "id": "pantry-tomato-pasta",
+    "name": "Pantry Tomato Pasta",
+    "chaosName": "Tomato Pasta",
+    "summary": "Pasta tossed in a quick tomato-onion-garlic sauce, finished with cheese — built entirely from pantry basics.",
+    "timeMinutes": 25,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "western"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "pasta"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "cheese",
+        "isRequired": false
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Boil the pasta until tender.",
+      "Soften onion and garlic, add tomato, and simmer into a sauce.",
+      "Toss the pasta through and top with cheese."
+    ]
+  },
+  {
+    "id": "loaded-baked-potato",
+    "name": "Loaded Baked Potato",
+    "chaosName": "Loaded Baked Potato",
+    "summary": "A soft baked potato split open and loaded with cheese and a spoon of yogurt.",
+    "timeMinutes": 40,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "western"
+    ],
+    "mealTimes": [
+      "snack",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "potato"
+      },
+      {
+        "name": "cheese"
+      },
+      {
+        "name": "yogurt",
+        "isRequired": false
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Bake or microwave the potato until tender.",
+      "Split it open and fluff the inside.",
+      "Top with cheese and a spoon of yogurt; season."
+    ]
+  },
+  {
+    "id": "besan-chilla",
+    "name": "Besan Chilla",
+    "chaosName": "Savory Gram Flour Pancake",
+    "summary": "A savory pancake made from gram flour (besan) batter with onion and tomato — high in protein and quick to cook.",
+    "timeMinutes": 12,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "quick"
+    ],
+    "cuisines": [
+      "northIndian",
+      "gujarati"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "spinach",
+        "isRequired": false
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Whisk besan with water, turmeric, salt, onion, and chili into a smooth batter.",
+      "Pour a ladle onto a hot oiled pan and spread thin.",
+      "Cook until golden on both sides and serve hot with chutney."
+    ]
+  },
+  {
+    "id": "khaman-dhokla",
+    "name": "Khaman Dhokla",
+    "chaosName": "Steamed Gram Flour Cake",
+    "summary": "Soft, spongy steamed cakes made from gram flour (besan) and yogurt, finished with a mustard-seed tempering — a classic Gujarati snack.",
+    "timeMinutes": 25,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "snack",
+      "breakfast"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Mix besan with yogurt, salt, and a little water into a smooth batter; let it rest.",
+      "Pour into a greased tray and steam until spongy and set.",
+      "Temper mustard seeds and chili in oil, pour over the top, and cut into squares."
+    ]
+  },
+  {
+    "id": "rava-upma",
+    "name": "Rava Upma",
+    "chaosName": "Semolina Porridge",
+    "summary": "Roasted semolina (rava) cooked with onion, peas, and a mustard-curry leaf tempering into a soft, savory breakfast.",
+    "timeMinutes": 18,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian",
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rava"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "peas",
+        "isRequired": false
+      },
+      {
+        "name": "tomato",
+        "isRequired": false
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Dry-roast the rava until lightly golden, then set aside.",
+      "Temper mustard seeds and curry leaves in oil; add onion and peas.",
+      "Add water, bring to a boil, stir in the rava, and cook until thick and fluffy."
+    ]
+  },
+  {
+    "id": "kanda-poha",
+    "name": "Kanda Poha",
+    "chaosName": "Flattened Rice with Onion",
+    "summary": "Flattened rice (poha) tossed with onion, turmeric, and a mustard tempering — a light, quick Maharashtrian breakfast.",
+    "timeMinutes": 12,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "quick",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "poha"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "potato",
+        "isRequired": false
+      },
+      {
+        "name": "peas",
+        "isRequired": false
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Rinse the poha briefly until just soft, then drain.",
+      "Temper mustard seeds and curry leaves in oil; add onion and turmeric.",
+      "Fold in the poha gently, season, and warm through."
+    ]
+  },
+  {
+    "id": "rava-dosa",
+    "name": "Rava Dosa",
+    "chaosName": "Crispy Semolina Crepe",
+    "summary": "A thin, lacy, crisp crepe made from a runny semolina (rava) batter — no fermentation needed.",
+    "timeMinutes": 20,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "ingredients": [
+      {
+        "name": "rava"
+      },
+      {
+        "name": "onion",
+        "isRequired": false
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Mix rava with water into a thin, runny batter with cumin, chili, and salt.",
+      "Pour from the edges of a hot pan inward to form a lacy crepe.",
+      "Drizzle oil and cook until crisp, then fold and serve."
+    ]
+  },
+  {
+    "id": "kadhi-chawal",
+    "name": "Kadhi Chawal",
+    "chaosName": "Yogurt Curry with Rice",
+    "summary": "A tangy yogurt and gram-flour (besan) curry, gently spiced and served over steamed rice.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "northIndian",
+      "gujarati",
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice"
+    ],
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Whisk besan and yogurt with water and turmeric until smooth and lump-free.",
+      "Simmer gently, stirring, until it thickens slightly.",
+      "Finish with a cumin-curry leaf tempering and serve over rice."
+    ]
+  },
+  {
+    "id": "dhokla",
+    "name": "Dhokla",
+    "chaosName": null,
+    "summary": "Steamed savory cake, easy to make in a steamer or pressure cooker without whistle.",
+    "timeMinutes": 22,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "eno",
+        "isPantryStaple": true
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: besan, yogurt.",
+      "Steamed savory cake, easy to make in a steamer or pressure cooker without whistle.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "khandvi",
+    "name": "Khandvi",
+    "chaosName": null,
+    "summary": "Thin rolled gram-flour snack; needs quick spreading while hot.",
+    "timeMinutes": 22,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "coconut"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: besan, yogurt, coconut.",
+      "Thin rolled gram-flour snack; needs quick spreading while hot.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "thepla",
+    "name": "Thepla",
+    "chaosName": null,
+    "summary": "Travel-friendly flatbread usually served with pickle or yogurt.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "breakfast"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "whole wheat flour"
+      },
+      {
+        "name": "methi leaves"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: whole wheat flour, methi leaves, yogurt.",
+      "Travel-friendly flatbread usually served with pickle or yogurt.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "undhiyu",
+    "name": "Undhiyu",
+    "chaosName": null,
+    "summary": "Mixed vegetable curry; home version can use available vegetables.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "mixed winter vegetables"
+      },
+      {
+        "name": "methi muthia"
+      },
+      {
+        "name": "coconut"
+      },
+      {
+        "name": "peanuts"
+      },
+      {
+        "name": "sesame"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: mixed winter vegetables, methi muthia, coconut, peanuts.",
+      "Mixed vegetable curry; home version can use available vegetables.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "sev-tameta-nu-shaak",
+    "name": "Sev Tameta nu Shaak",
+    "chaosName": null,
+    "summary": "Quick sweet-spicy tomato curry topped with sev.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "tomatoes"
+      },
+      {
+        "name": "sev"
+      },
+      {
+        "name": "jaggery",
+        "isPantryStaple": true
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: tomatoes, sev.",
+      "Quick sweet-spicy tomato curry topped with sev.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "gujarati-kadhi",
+    "name": "Gujarati Kadhi",
+    "chaosName": null,
+    "summary": "Sweet-tangy yogurt curry served with rice or khichdi.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb",
+      "spicy"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "besan"
+      },
+      {
+        "name": "ginger",
+        "isPantryStaple": true
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "jaggery",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: yogurt, besan.",
+      "Sweet-tangy yogurt curry served with rice or khichdi.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "handvo",
+    "name": "Handvo",
+    "chaosName": null,
+    "summary": "Savory baked or pan-cooked lentil cake.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "rice-lentil batter"
+      },
+      {
+        "name": "bottle gourd"
+      },
+      {
+        "name": "sesame"
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: rice-lentil batter, bottle gourd, sesame.",
+      "Savory baked or pan-cooked lentil cake.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "fafda-with-kadhi-or-chutney",
+    "name": "Fafda with Kadhi or Chutney",
+    "chaosName": null,
+    "summary": "Crispy gram-flour snack; deep-fried but simple ingredients.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "gujarati"
+    ],
+    "mealTimes": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "ajwain",
+        "isPantryStaple": true
+      },
+      {
+        "name": "turmeric",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: besan.",
+      "Crispy gram-flour snack; deep-fried but simple ingredients.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "poha",
+    "name": "Poha",
+    "chaosName": null,
+    "summary": "Common breakfast dish; cooks quickly.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "flattened rice"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      },
+      {
+        "name": "peanuts"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: flattened rice, onion, peanuts.",
+      "Common breakfast dish; cooks quickly.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "vada-pav",
+    "name": "Vada Pav",
+    "chaosName": null,
+    "summary": "Mumbai-style potato fritter sandwich.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "potato"
+      },
+      {
+        "name": "besan"
+      },
+      {
+        "name": "pav"
+      },
+      {
+        "name": "garlic chutney",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: potato, besan, pav.",
+      "Mumbai-style potato fritter sandwich.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "misal-pav",
+    "name": "Misal Pav",
+    "chaosName": null,
+    "summary": "Can adjust spice level; serve with onion and lemon.",
+    "timeMinutes": 22,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "snack"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "sprouted moth beans"
+      },
+      {
+        "name": "farsan"
+      },
+      {
+        "name": "pav"
+      },
+      {
+        "name": "spicy gravy"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: sprouted moth beans, farsan, pav, spicy gravy.",
+      "Can adjust spice level; serve with onion and lemon.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "pithla-bhakri",
+    "name": "Pithla Bhakri",
+    "chaosName": null,
+    "summary": "Rustic gram-flour curry with millet flatbread.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb",
+      "spicy"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "jowar"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: besan, jowar.",
+      "Rustic gram-flour curry with millet flatbread.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "sabudana-khichdi",
+    "name": "Sabudana Khichdi",
+    "chaosName": null,
+    "summary": "Popular fasting dish; soak sabudana properly.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "breakfast"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "tapioca pearls"
+      },
+      {
+        "name": "peanuts"
+      },
+      {
+        "name": "potato"
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: tapioca pearls, peanuts, potato.",
+      "Popular fasting dish; soak sabudana properly.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "bharli-vangi",
+    "name": "Bharli Vangi",
+    "chaosName": null,
+    "summary": "Stuffed brinjal curry; pairs well with bhakri or rice.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "small eggplants"
+      },
+      {
+        "name": "peanuts"
+      },
+      {
+        "name": "coconut"
+      },
+      {
+        "name": "goda masala",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: small eggplants, peanuts, coconut.",
+      "Stuffed brinjal curry; pairs well with bhakri or rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "kolhapuri-chicken",
+    "name": "Kolhapuri Chicken",
+    "chaosName": null,
+    "summary": "Spicy chicken curry; reduce chilies for a milder version.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "chicken",
+    "ingredients": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "dry coconut"
+      },
+      {
+        "name": "red chilies",
+        "isPantryStaple": true
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chicken, dry coconut.",
+      "Spicy chicken curry; reduce chilies for a milder version.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "malvani-fish-curry",
+    "name": "Malvani Fish Curry",
+    "chaosName": null,
+    "summary": "Coastal curry usually served with rice.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "fish"
+      },
+      {
+        "name": "coconut"
+      },
+      {
+        "name": "kokum",
+        "isPantryStaple": true
+      },
+      {
+        "name": "malvani masala",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: fish, coconut.",
+      "Coastal curry usually served with rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "dal-baati-churma",
+    "name": "Dal Baati Churma",
+    "chaosName": null,
+    "summary": "Classic meal of baked baati, dal, and sweet churma.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "wheat flour"
+      },
+      {
+        "name": "ghee",
+        "isPantryStaple": true
+      },
+      {
+        "name": "mixed dal"
+      },
+      {
+        "name": "jaggery",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: wheat flour, mixed dal.",
+      "Classic meal of baked baati, dal, and sweet churma.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "gatte-ki-sabzi",
+    "name": "Gatte ki Sabzi",
+    "chaosName": null,
+    "summary": "Gram-flour dumplings cooked in yogurt gravy.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "besan"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: besan, yogurt.",
+      "Gram-flour dumplings cooked in yogurt gravy.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "ker-sangri",
+    "name": "Ker Sangri",
+    "chaosName": null,
+    "summary": "Traditional dry curry; use dried ker sangri if available.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "ker berries"
+      },
+      {
+        "name": "sangri beans"
+      },
+      {
+        "name": "dried spices",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: ker berries, sangri beans.",
+      "Traditional dry curry; use dried ker sangri if available.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "papad-ki-sabzi",
+    "name": "Papad ki Sabzi",
+    "chaosName": null,
+    "summary": "Quick curry when fresh vegetables are limited.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "papad"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: papad, yogurt.",
+      "Quick curry when fresh vegetables are limited.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "bajre-ki-roti-with-lehsun-chutney",
+    "name": "Bajre ki Roti with Lehsun Chutney",
+    "chaosName": null,
+    "summary": "Hearty millet roti served with spicy chutney.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb",
+      "spicy"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "bajra flour"
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      },
+      {
+        "name": "red chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ghee",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: bajra flour.",
+      "Hearty millet roti served with spicy chutney.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "rajasthani-kadhi",
+    "name": "Rajasthani Kadhi",
+    "chaosName": null,
+    "summary": "Tangier and spicier than Gujarati kadhi.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "besan"
+      },
+      {
+        "name": "fenugreek",
+        "isPantryStaple": true
+      },
+      {
+        "name": "dry spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: yogurt, besan.",
+      "Tangier and spicier than Gujarati kadhi.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "laal-maas",
+    "name": "Laal Maas",
+    "chaosName": null,
+    "summary": "Fiery meat curry; home version can use Kashmiri chili for color with less heat.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "mutton"
+      },
+      {
+        "name": "mathania-style red chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: mutton, yogurt.",
+      "Fiery meat curry; home version can use Kashmiri chili for color with less heat.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "safed-maas",
+    "name": "Safed Maas",
+    "chaosName": null,
+    "summary": "Rich white meat curry for special meals.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "protein"
+    ],
+    "cuisines": [
+      "rajasthani"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "mutton"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "cream"
+      },
+      {
+        "name": "cashew"
+      },
+      {
+        "name": "white spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: mutton, yogurt, cream, cashew.",
+      "Rich white meat curry for special meals.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "rajma-chawal",
+    "name": "Rajma Chawal",
+    "chaosName": null,
+    "summary": "Common Punjabi-style kidney bean curry with rice.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "kidney beans"
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      },
+      {
+        "name": "rice"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: kidney beans, onion, tomato, rice.",
+      "Common Punjabi-style kidney bean curry with rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "chole-bhature",
+    "name": "Chole Bhature",
+    "chaosName": null,
+    "summary": "Chole can be made at home; bhature are deep-fried breads.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "chickpeas"
+      },
+      {
+        "name": "tea"
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      },
+      {
+        "name": "flour"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chickpeas, tea, flour.",
+      "Chole can be made at home; bhature are deep-fried breads.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "dal-makhani",
+    "name": "Dal Makhani",
+    "chaosName": null,
+    "summary": "Slow-cooked creamy lentils; pressure cooker speeds it up.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "whole urad dal"
+      },
+      {
+        "name": "rajma"
+      },
+      {
+        "name": "butter"
+      },
+      {
+        "name": "cream"
+      },
+      {
+        "name": "tomato"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: whole urad dal, rajma, butter, cream.",
+      "Slow-cooked creamy lentils; pressure cooker speeds it up.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "paneer-butter-masala",
+    "name": "Paneer Butter Masala",
+    "chaosName": null,
+    "summary": "Restaurant-style curry that is easy to make at home.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "paneer"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "butter"
+      },
+      {
+        "name": "cream"
+      },
+      {
+        "name": "cashew"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: paneer, tomato, butter, cream.",
+      "Restaurant-style curry that is easy to make at home.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "kadhi-pakora",
+    "name": "Kadhi Pakora",
+    "chaosName": null,
+    "summary": "North Indian yogurt curry with fritters.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "besan"
+      },
+      {
+        "name": "onion pakoras"
+      },
+      {
+        "name": "spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: yogurt, besan, onion pakoras.",
+      "North Indian yogurt curry with fritters.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "butter-chicken",
+    "name": "Butter Chicken",
+    "chaosName": null,
+    "summary": "Creamy chicken curry; use boneless or bone-in chicken.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "protein"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "chicken",
+    "ingredients": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "butter"
+      },
+      {
+        "name": "cream"
+      },
+      {
+        "name": "garam masala",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chicken, tomato, butter, cream.",
+      "Creamy chicken curry; use boneless or bone-in chicken.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "chicken-biryani",
+    "name": "Chicken Biryani",
+    "chaosName": null,
+    "summary": "Layered rice dish; can be made dum-style in a heavy pot.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "chicken",
+    "ingredients": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "basmati rice"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "fried onions"
+      },
+      {
+        "name": "biryani spices",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chicken, basmati rice, yogurt, fried onions.",
+      "Layered rice dish; can be made dum-style in a heavy pot.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "rogan-josh",
+    "name": "Rogan Josh",
+    "chaosName": null,
+    "summary": "Kashmiri-style aromatic meat curry.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "lamb"
+      },
+      {
+        "name": "kashmiri chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "fennel",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ginger",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: lamb, yogurt.",
+      "Kashmiri-style aromatic meat curry.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "idli",
+    "name": "Idli",
+    "chaosName": null,
+    "summary": "Steamed fermented rice-lentil cakes.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "urad dal"
+      },
+      {
+        "name": "fenugreek",
+        "isPantryStaple": true
+      },
+      {
+        "name": "salt",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: rice, urad dal.",
+      "Steamed fermented rice-lentil cakes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "dosa",
+    "name": "Dosa",
+    "chaosName": null,
+    "summary": "Crisp fermented crepes served with chutney and sambar.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "rice"
+      },
+      {
+        "name": "urad dal"
+      },
+      {
+        "name": "fenugreek",
+        "isPantryStaple": true
+      },
+      {
+        "name": "oil",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: rice, urad dal.",
+      "Crisp fermented crepes served with chutney and sambar.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "sambar",
+    "name": "Sambar",
+    "chaosName": null,
+    "summary": "Lentil-vegetable stew common across South India.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "toor dal"
+      },
+      {
+        "name": "tamarind",
+        "isPantryStaple": true
+      },
+      {
+        "name": "vegetables"
+      },
+      {
+        "name": "sambar powder"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: toor dal, vegetables, sambar powder.",
+      "Lentil-vegetable stew common across South India.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": "rasam",
+    "name": "Rasam",
+    "chaosName": null,
+    "summary": "Thin spicy-sour soup served with rice.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "tamarind",
+        "isPantryStaple": true
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "pepper",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cumin",
+        "isPantryStaple": true
+      },
+      {
+        "name": "dal water"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: tomato, dal water.",
+      "Thin spicy-sour soup served with rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "upma",
+    "name": "Upma",
+    "chaosName": null,
+    "summary": "Quick breakfast dish.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "semolina"
+      },
+      {
+        "name": "mustard seeds",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "vegetables"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: semolina, onion, vegetables.",
+      "Quick breakfast dish.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "avial",
+    "name": "Avial",
+    "chaosName": null,
+    "summary": "Kerala/Tamil mixed vegetable coconut curry.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "mixed vegetables"
+      },
+      {
+        "name": "coconut"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: mixed vegetables, coconut, yogurt.",
+      "Kerala/Tamil mixed vegetable coconut curry.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": "hyderabadi-chicken-biryani",
+    "name": "Hyderabadi Chicken Biryani",
+    "chaosName": null,
+    "summary": "Aromatic dum biryani; can be made in a thick-bottomed pot.",
+    "timeMinutes": 45,
+    "difficulty": "hard",
+    "dietaryTags": [
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "chicken",
+    "ingredients": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "basmati rice"
+      },
+      {
+        "name": "yogurt"
+      },
+      {
+        "name": "mint"
+      },
+      {
+        "name": "fried onions"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chicken, basmati rice, yogurt, mint.",
+      "Aromatic dum biryani; can be made in a thick-bottomed pot.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "chettinad-chicken-curry",
+    "name": "Chettinad Chicken Curry",
+    "chaosName": null,
+    "summary": "Spicy Tamil-style chicken curry with roasted spices.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "chicken",
+    "ingredients": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "black pepper",
+        "isPantryStaple": true
+      },
+      {
+        "name": "fennel",
+        "isPantryStaple": true
+      },
+      {
+        "name": "coconut"
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chicken, coconut.",
+      "Spicy Tamil-style chicken curry with roasted spices.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "kerala-fish-curry",
+    "name": "Kerala Fish Curry",
+    "chaosName": null,
+    "summary": "Tangy coastal curry served with rice.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "fish"
+      },
+      {
+        "name": "coconut milk"
+      },
+      {
+        "name": "tamarind",
+        "isPantryStaple": true
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: fish, coconut milk.",
+      "Tangy coastal curry served with rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "egg-curry-south-indian-style",
+    "name": "Egg Curry South Indian Style",
+    "chaosName": null,
+    "summary": "Simple egg curry with South Indian tempering.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein"
+    ],
+    "cuisines": [
+      "southIndian"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "egg",
+    "ingredients": [
+      {
+        "name": "boiled eggs",
+        "isPantryStaple": true
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "coconut"
+      },
+      {
+        "name": "curry leaves",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: onion, tomato, coconut.",
+      "Simple egg curry with South Indian tempering.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "assamese-khar",
+    "name": "Assamese Khar",
+    "chaosName": null,
+    "summary": "Traditional Assamese alkaline dish; use food-safe khar substitute if needed.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "raw papaya"
+      },
+      {
+        "name": "alkaline khar",
+        "isPantryStaple": true
+      },
+      {
+        "name": "mustard oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "lentils",
+        "isRequired": false
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: raw papaya, lentils.",
+      "Traditional Assamese alkaline dish; use food-safe khar substitute if needed.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "aloo-pitika",
+    "name": "Aloo Pitika",
+    "chaosName": null,
+    "summary": "Assamese mashed potato side dish.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "potato"
+      },
+      {
+        "name": "mustard oil",
+        "isPantryStaple": true
+      },
+      {
+        "name": "onion"
+      },
+      {
+        "name": "green chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "coriander",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: potato, onion.",
+      "Assamese mashed potato side dish.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "black-rice-kheer",
+    "name": "Black Rice Kheer",
+    "chaosName": null,
+    "summary": "Manipuri-inspired dessert using black rice.",
+    "timeMinutes": 22,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "snack"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "black rice"
+      },
+      {
+        "name": "milk"
+      },
+      {
+        "name": "sugar",
+        "isPantryStaple": true
+      },
+      {
+        "name": "cardamom",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: black rice, milk.",
+      "Manipuri-inspired dessert using black rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "manipuri-eromba",
+    "name": "Manipuri Eromba",
+    "chaosName": null,
+    "summary": "Traditionally may include fermented fish; this version can be vegetarian.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "boiled vegetables",
+        "isPantryStaple": true
+      },
+      {
+        "name": "fermented bamboo shoot"
+      },
+      {
+        "name": "chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "herbs"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: fermented bamboo shoot, herbs.",
+      "Traditionally may include fermented fish; this version can be vegetarian.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "mizo-bai",
+    "name": "Mizo Bai",
+    "chaosName": null,
+    "summary": "Light boiled vegetable dish; can be made with local greens.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "greens"
+      },
+      {
+        "name": "vegetables"
+      },
+      {
+        "name": "bamboo shoot"
+      },
+      {
+        "name": "simple seasoning"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: greens, vegetables, bamboo shoot, simple seasoning.",
+      "Light boiled vegetable dish; can be made with local greens.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "assamese-masor-tenga",
+    "name": "Assamese Masor Tenga",
+    "chaosName": null,
+    "summary": "Light sour fish curry served with rice.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "carb"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "fish"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "lemon"
+      },
+      {
+        "name": "mustard oil",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: fish, tomato, lemon.",
+      "Light sour fish curry served with rice.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "naga-pork-curry-with-bamboo-shoot",
+    "name": "Naga Pork Curry with Bamboo Shoot",
+    "chaosName": null,
+    "summary": "Spicy pork curry; adjust chili carefully.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "pork"
+      },
+      {
+        "name": "fermented bamboo shoot"
+      },
+      {
+        "name": "naga chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ginger",
+        "isPantryStaple": true
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: pork, fermented bamboo shoot.",
+      "Spicy pork curry; adjust chili carefully.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "smoked-pork-with-axone",
+    "name": "Smoked Pork with Axone",
+    "chaosName": null,
+    "summary": "Nagaland-style dish; use axone only if available and ventilate well while cooking.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": null,
+    "diet": "otherMeat",
+    "ingredients": [
+      {
+        "name": "smoked pork"
+      },
+      {
+        "name": "axone fermented soybean"
+      },
+      {
+        "name": "chili",
+        "isPantryStaple": true
+      },
+      {
+        "name": "ginger",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: smoked pork, axone fermented soybean.",
+      "Nagaland-style dish; use axone only if available and ventilate well while cooking.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "chicken-with-bamboo-shoot",
+    "name": "Chicken with Bamboo Shoot",
+    "chaosName": null,
+    "summary": "Simple North East-style chicken curry with minimal spices.",
+    "timeMinutes": 30,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "protein",
+      "spicy"
+    ],
+    "cuisines": [
+      "northEastern"
+    ],
+    "mealTimes": [
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": true,
+    "servedWith": [
+      "rice",
+      "roti"
+    ],
+    "diet": "chicken",
+    "ingredients": [
+      {
+        "name": "chicken"
+      },
+      {
+        "name": "bamboo shoot"
+      },
+      {
+        "name": "ginger",
+        "isPantryStaple": true
+      },
+      {
+        "name": "garlic",
+        "isPantryStaple": true
+      },
+      {
+        "name": "chilies",
+        "isPantryStaple": true
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: chicken, bamboo shoot.",
+      "Simple North East-style chicken curry with minimal spices.",
+      "Serve hot with rice or roti."
+    ]
+  },
+  {
+    "id": "pav-bhaji",
+    "name": "Pav Bhaji",
+    "chaosName": null,
+    "summary": "Mumbai street-food favorite, easy for home dinners.",
+    "timeMinutes": 22,
+    "difficulty": "medium",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "snack",
+      "lunch",
+      "dinner"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "mixed vegetables"
+      },
+      {
+        "name": "potato"
+      },
+      {
+        "name": "butter"
+      },
+      {
+        "name": "pav bhaji masala",
+        "isPantryStaple": true
+      },
+      {
+        "name": "pav"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: mixed vegetables, potato, butter, pav.",
+      "Mumbai street-food favorite, easy for home dinners.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "bombay-sandwich",
+    "name": "Bombay Sandwich",
+    "chaosName": null,
+    "summary": "Can be grilled or served cold.",
+    "timeMinutes": 15,
+    "difficulty": "easy",
+    "dietaryTags": [
+      "vegetarian",
+      "carb"
+    ],
+    "cuisines": [
+      "maharashtrian"
+    ],
+    "mealTimes": [
+      "snack"
+    ],
+    "nutritious": false,
+    "servedWith": null,
+    "diet": "veg",
+    "ingredients": [
+      {
+        "name": "bread"
+      },
+      {
+        "name": "potato"
+      },
+      {
+        "name": "cucumber"
+      },
+      {
+        "name": "tomato"
+      },
+      {
+        "name": "green chutney"
+      }
+    ],
+    "steps": [
+      "Prep your ingredients: bread, potato, cucumber, tomato.",
+      "Can be grilled or served cold.",
+      "Serve hot."
+    ]
+  }
+]

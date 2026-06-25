@@ -6,11 +6,27 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXContainerItemProxy section */
+		DE036B1E2FECFCFE0015124B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DEF8569C2FDF93B900028DD6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DEF856A32FDF93B900028DD6;
+			remoteInfo = LeftoverLab;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		DE036B1A2FECFCFE0015124B /* LeftoverLabTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeftoverLabTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF856A42FDF93B900028DD6 /* LeftoverLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeftoverLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		DE036B1B2FECFCFE0015124B /* LeftoverLabTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LeftoverLabTests;
+			sourceTree = "<group>";
+		};
 		DEF856A62FDF93B900028DD6 /* LeftoverLab */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = LeftoverLab;
@@ -19,6 +35,13 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		DE036B172FECFCFE0015124B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEF856A12FDF93B900028DD6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -33,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				DEF856A62FDF93B900028DD6 /* LeftoverLab */,
+				DE036B1B2FECFCFE0015124B /* LeftoverLabTests */,
 				DEF856A52FDF93B900028DD6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -41,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				DEF856A42FDF93B900028DD6 /* LeftoverLab.app */,
+				DE036B1A2FECFCFE0015124B /* LeftoverLabTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,6 +73,29 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		DE036B192FECFCFE0015124B /* LeftoverLabTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE036B222FECFCFE0015124B /* Build configuration list for PBXNativeTarget "LeftoverLabTests" */;
+			buildPhases = (
+				DE036B162FECFCFE0015124B /* Sources */,
+				DE036B172FECFCFE0015124B /* Frameworks */,
+				DE036B182FECFCFE0015124B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DE036B1F2FECFCFE0015124B /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DE036B1B2FECFCFE0015124B /* LeftoverLabTests */,
+			);
+			name = LeftoverLabTests;
+			packageProductDependencies = (
+			);
+			productName = LeftoverLabTests;
+			productReference = DE036B1A2FECFCFE0015124B /* LeftoverLabTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		DEF856A32FDF93B900028DD6 /* LeftoverLab */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = DEF856AF2FDF93BC00028DD6 /* Build configuration list for PBXNativeTarget "LeftoverLab" */;
@@ -80,6 +128,10 @@
 				LastSwiftUpdateCheck = 2650;
 				LastUpgradeCheck = 2650;
 				TargetAttributes = {
+					DE036B192FECFCFE0015124B = {
+						CreatedOnToolsVersion = 26.5;
+						TestTargetID = DEF856A32FDF93B900028DD6;
+					};
 					DEF856A32FDF93B900028DD6 = {
 						CreatedOnToolsVersion = 26.5;
 					};
@@ -100,11 +152,19 @@
 			projectRoot = "";
 			targets = (
 				DEF856A32FDF93B900028DD6 /* LeftoverLab */,
+				DE036B192FECFCFE0015124B /* LeftoverLabTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		DE036B182FECFCFE0015124B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEF856A22FDF93B900028DD6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -115,6 +175,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		DE036B162FECFCFE0015124B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEF856A02FDF93B900028DD6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -124,7 +191,57 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		DE036B1F2FECFCFE0015124B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DEF856A32FDF93B900028DD6 /* LeftoverLab */;
+			targetProxy = DE036B1E2FECFCFE0015124B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		DE036B202FECFCFE0015124B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2CFG2A8NU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jay.LeftoverLabTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LeftoverLab.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LeftoverLab";
+			};
+			name = Debug;
+		};
+		DE036B212FECFCFE0015124B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2CFG2A8NU2;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jay.LeftoverLabTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LeftoverLab.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LeftoverLab";
+			};
+			name = Release;
+		};
 		DEF856AD2FDF93BC00028DD6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -313,6 +430,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		DE036B222FECFCFE0015124B /* Build configuration list for PBXNativeTarget "LeftoverLabTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE036B202FECFCFE0015124B /* Debug */,
+				DE036B212FECFCFE0015124B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		DEF8569F2FDF93B900028DD6 /* Build configuration list for PBXProject "LeftoverLab" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
